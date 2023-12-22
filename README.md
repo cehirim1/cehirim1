@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on a full functional e-commerce website using React, JS, Node, webpack, Firebase etc while honing my skills.
--🌱 I’m currently learning TypeScript and MongoDB
+- 🌱 I’m currently learning TypeScript and MongoDB
 - 💬 Ask me about food - cuisines around the globe, projects I have worked on, everything Java
 - 📫 How to reach me: LinkedIn
 - 🤔 I’m looking for fullstack web development/ data engineering roles 
