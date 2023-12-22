@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ...F
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,7 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+# 🔭 I’m currently working on full functional e-commerce website using React, JS, Node, webpack, Firebase etc to build projects and hone my skills.
+# 🌱 I’m currently learning TypeScript and MongoDB
+# 💬 Ask me about food - cuisines around the globe, projects I have worked on, everything Java
+# 📫 How to reach me: LinkedIn
+# 🤔 I’m looking for fullstack web development/ data engineering roles 
+#  😄 Pronouns: She/Her
+# ⚡ Fun fact: When I was young I wanted to be an Astronaut and be out of this world on a journey around the planets 😄 🪐🪐🪐🪐🪐🪐
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chisom-ehirim/) 
 
