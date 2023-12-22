@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: LinkedIn
 - 🤔 I’m looking for fullstack web development/ data engineering roles 
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: When I was young I wanted to be an Astronaut and be out of this world on a journey around the planets 😄 🪐🪐🪐🪐🪐🪐
+- ⚡ Fun fact: When I was young I wanted to be an Astronaut and be out of this world on a journey around the planets 😄 🪐🪐
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chisom-ehirim/) 
 
